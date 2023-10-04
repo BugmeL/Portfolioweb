@@ -258,7 +258,7 @@ export const PROFILES = [
         username: "jaybeegeli",
         email: "jb@yahoo.com",
         profile: {
-            cover: IDPIC,
+            // cover: IDPIC,
             nickname: "brix",
             firstName: "Brix",
             lastName: "Delute",
@@ -295,7 +295,7 @@ export const PROFILES = [
                           title: "",
                           subtitle: "",
                           description: "",
-                          link: "https://www.facebook.com/brixxdelute/",
+                          link: "",
                           icon: "uil uil-facebook",
                         }
                 ]
