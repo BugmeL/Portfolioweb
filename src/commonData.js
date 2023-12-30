@@ -11,6 +11,7 @@ import Doovote from "./assets/doovote.png";
 import Netflix from "./assets/netflix.png";
 import Dashboard from "./assets/Dashboard.png";
 import Pos from "./assets/Pos.png";
+import Hosting from "./assets/Hosting.png";
 import CFC from "./assets/CFC.png";
 import Blog from "./assets/Blog.png";
 import Inventory from "./assets/Inventory.png";
@@ -84,10 +85,10 @@ export const Services = [
 export const PROJECTS = [
     {
       id: 1,
-      cover: Pos,
-      title: "Inventory/POS",
+      cover: Hosting,
+      title: "Shared Hosting",
       description: "Web",
-      link: "https://pos.bugtech.solutions"
+      link: "https://sharewin.pro"
     },
     {
       id: 2,
