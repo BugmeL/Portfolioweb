@@ -31,9 +31,9 @@ jobs:
       - name: Deploy to Web Server
         uses: appleboy/ssh-action@master
         with:
-          host: bugtech.solutions
-          username: bugtech
-          password: 420230
+          host: bugtech.online
+          username: bugtech_admin
+          password: 111111
           port: 22
           script: |
               cd /var/www/Portfolioweb

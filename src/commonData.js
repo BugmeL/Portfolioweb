@@ -18,7 +18,7 @@ import Inventory from "./assets/Inventory.png";
 import Ecommerce from "./assets/Ecommerce.png";
 import Messaging from "./assets/Messaging.png";
 import IDPIC from './assets/id-pic.png';
-import Image1 from "./assets/testimonial1.png"; 
+import Image1 from "./assets/testimonial1.png";
 import Image2 from "./assets/testimonial2.png";
 import Image3 from "./assets/testimonial3.png";
 import CV from "./assets/John_Benedict_CV.pdf";
@@ -34,23 +34,23 @@ export const Testimonial = [
   {
     id: 1,
     image: Image1,
-    title:"Aja Hardware",
+    title: "Aja Hardware",
     description: "A really good job, a aspects of the project were followed step by step and with good results."
   },
   {
-    id:2,
+    id: 2,
     image: Image2,
     title: "Harry Clinton",
     description:
-    "A really good job, a aspects of the project were followed step by step and with good results.",
+      "A really good job, a aspects of the project were followed step by step and with good results.",
 
   },
   {
-    id:3,
+    id: 3,
     image: Image3,
     title: "Sara Cill",
     description:
-    "A really good job, a aspects of the project were followed step by step and with good results.",
+      "A really good job, a aspects of the project were followed step by step and with good results.",
   }
 ]
 
@@ -58,101 +58,108 @@ export const Services = [
   {
     id: 1,
     image: Image1,
-    title:"System Design and Architecture Services",
+    title: "System Design and Architecture Services",
     description: "Creating high-level designs of software systems that meet the requirements of stakeholders. This includes identifying components, interactions, and dependencies, and creating detailed technical specifications.",
     icon: MdDesignServices
   },
   {
-    id:2,
+    id: 2,
     image: Image3,
     title: "Fullstack Development Services",
     description:
-    "Writing code to create both the client-side and server-side components of web applications. This includes working with technologies such as React.js, Node.js, MySQL, MongoDB, or PostgreSQL to create responsive and interactive interfaces, APIs.",
+      "Writing code to create both the client-side and server-side components of web applications. This includes working with technologies such as React.js, Node.js, MySQL, MongoDB, or PostgreSQL to create responsive and interactive interfaces, APIs.",
     icon: FiCodesandbox
   },
   {
-    id:3,
+    id: 3,
     image: Image2,
     title: "Database Design and Management",
     description:
-    "Writing code to create the server-side components of web applications. This includes working with technologies such as NodeJS, Express, Typescript to create APIs, databases, AWS, Microservices and web servers.",
+      "Writing code to create the server-side components of web applications. This includes working with technologies such as NodeJS, Express, Typescript to create APIs, databases, AWS, Microservices and web servers.",
     icon: CgWebsite
   },
- 
+
 ]
 
 
 export const PROJECTS = [
-    {
-      id: 1,
-      cover: Hosting,
-      title: "Shared Hosting",
-      description: "Web",
-      link: "https://sharewin.pro"
-    },
-    {
-      id: 2,
-      cover: CFC,
-      title: "CFC 2023",
-      description: "App",
-      link: "https://cfc.bugtech.solutions"
-    },
-    {
-      id: 3,
-      cover: Doovote,
-      title: "Doovote",
-      description: "App",
-      link: "https://doovote.com"
-    },
-    {
-      id: 4,
-      cover: Netflix,
-      title: "NorthFlix",
-      description: "App",
-      link: "/netflix"
-    },
-    {
-      id: 6,
-      cover: Work3,
-      title: "File Manager",
-      description: "Web",
-      link: "https://files.bugtech.solutions"
-    },
-    // {
-    //   id: 6,
-    //   cover: Inventory,
-    //   title: "Bubu - Lending App",
-    //   description: "App",
-    //   link: "https://bubu.bugtech.solutions"
-    // },
-    // {
-    //   id: 7,
-    //   cover: Inventory,
-    //   title: "Deep - Multi-level Marketing",
-    //   description: "App",
-    //   link: "https://deep.bugtech.solutions"
-    // },
-    // {
-    //   id: 7,
-    //   cover: Blog,
-    //   title: "Blog Web Site",
-    //   description: "Web",
-    //   link: "/blog"
-    // },
-    // {
-    //   id: 8,
-    //   cover: Ecommerce,
-    //   title: "Ecommerce Web",
-    //   description: "Design",
-    //   link: "/ecommerce"
-    // },
-    // {
-    //   id: 9,
-    //   cover: Messaging,
-    //   title: "Messaging Web App",
-    //   description: "App",
-    //   link: "/messaging"
-    // },
+  {
+    id: 1,
+    cover: Hosting,
+    title: "Shared Hosting",
+    description: "Web",
+    link: "https://sharewin.pro"
+  },
+  {
+    id: 2,
+    cover: CFC,
+    title: "CFC 2023",
+    description: "App",
+    link: "https://cfc.bugtech.online"
+  },
+  {
+    id: 3,
+    cover: Doovote,
+    title: "Doovote",
+    description: "App",
+    link: "https://doovote.com"
+  },
+  {
+    id: 4,
+    cover: Pos,
+    title: "Point of Sale/Inventory",
+    description: "Web",
+    link: "https://pos.bugtech.online"
+  },
+  {
+    id: 5,
+    cover: Netflix,
+    title: "NorthFlix",
+    description: "App",
+    link: "/netflix"
+  },
+  {
+    id: 6,
+    cover: Work3,
+    title: "File Manager",
+    description: "Web",
+    link: "https://files.bugtech.online"
+  },
+  // {
+  //   id: 6,
+  //   cover: Inventory,
+  //   title: "Bubu - Lending App",
+  //   description: "App",
+  //   link: "https://bubu.bugtech.solutions"
+  // },
+  // {
+  //   id: 7,
+  //   cover: Inventory,
+  //   title: "Deep - Multi-level Marketing",
+  //   description: "App",
+  //   link: "https://deep.bugtech.solutions"
+  // },
+  // {
+  //   id: 7,
+  //   cover: Blog,
+  //   title: "Blog Web Site",
+  //   description: "Web",
+  //   link: "/blog"
+  // },
+  // {
+  //   id: 8,
+  //   cover: Ecommerce,
+  //   title: "Ecommerce Web",
+  //   description: "Design",
+  //   link: "/ecommerce"
+  // },
+  // {
+  //   id: 9,
+  //   cover: Messaging,
+  //   title: "Messaging Web App",
+  //   description: "App",
+  //   link: "/messaging"
+  // },
 ];
 
 export const SKILLS = [
@@ -255,200 +262,200 @@ export const SKILLS = [
 ];
 
 export const PROFILES = [
-    {
-        username: "jaybeegeli",
-        email: "jb@yahoo.com",
-        profile: {
-            cover: IDPIC,
-            nickname: "jaybee",
-            firstName: "John Benedict",
-            lastName: "Geli",
-            position: [
-              "Software Engineer",
-              "Backend Developer",
-              "Front End Developer",
-              "Full Stack Developer",
-              "React Js Developer"
-            ],
-            bio: "I'm a creative software developer based in Tacloban City, Philippines, with a passion for creating innovative tools and systems. I have a background in accounting and a solid foundation in Full Stack Development, including expertise in HTML, CSS, JavaScript, React, Node.js, AWS, Microservices, RestAPI, and Databases.",
-        },    
-         contents: [
-            {
-                type: "socials",
-                title: "",
-                subtitle: "",
-                contents: [
-                    {
-                      title: "",
-                      subtitle: "",
-                      description: "",
-                      link: "https://github.com/jGeli",
-                      icon: "uil uil-github-alt",
-                    },
-                    {
-                        title: "",
-                        subtitle: "",
-                        description: "",
-                        link: "https://www.linkedin.com/in/john-benedict-geli",
-                        icon: "uil uil-linkedin",
-                      },
-                      {
-                          title: "",
-                          subtitle: "",
-                          description: "",
-                          link: "https://www.facebook.com/jaybeepido/",
-                          icon: "uil uil-facebook",
-                        }
-                ]
-            },
-            {
-                type: "contact",
-                title: "Get in touch",
-                subtitle: "Contact Me",
-                contents: [
-                    {
-                      title: "Email",
-                      subtitle: "jaybee.aicpa@gmail.com",
-                      description: "",
-                      link: "mailto:jaybee.aicpa@gmail.com",
-                      icon: "bx bx-mail-send",
-                    },
-                    {
-                        title: "Whatsapp",
-                        subtitle: "+639774461641",
-                        description: "",
-                        link: "www.linkedin.com/in/john-benedict-geli-16941a21a",
-                        icon: "bx bxl-whatsapp",
-                      },{
-                        title: "Skype",
-                        subtitle: "jaybee.aicpa@outlook.com",
-                        description: "",
-                        link: "https://join.skype.com/invite/ywfxqv9NGiPP",
-                        icon: "bx bxl-skype",
-                      },
-                      {
-                          title: "Messenger",
-                          subtitle: "jaybeegeli",
-                          description: "",
-                          link: "https://www.facebook.com/jaybeepido/",
-                          icon: "bx bxl-messenger",
-                        }
-                ]
-            },
-            {
-                type: "about",
-                title: "About Me",
-                subtitle: "My Introduction",
-                description: "I believe that my unique combination of accounting knowledge and Full Stack Development skills allows me to bring added value to any project. My goal is to use my expertise to create cutting-edge accounting tools and systems that streamline financial processes and improve the user experience.",
-                link: CV,
-                cover: IDPIC,
-                contents: [
-                    {
-                        title: "Experience",
-                        subtitle: "4+ Years Working",
-                        description: "",
-                        link: "",
-                        icon: "bx bx-award",
-                      },
-                      {
-                        title: "Completed",
-                        subtitle: "10+ projects",
-                        description: "",
-                        link: "",
-                        icon: "bx bx-briefcase-alt",
-                      },
-                      {
-                        title: "Support",
-                        subtitle: "Online 24/7",
-                        description: "",
-                        link: "",
-                        icon: "bx bx-support",
-                      },
-                      {
-                        title: "Accounting",
-                        subtitle: "Book keeper",
-                        description: "",
-                        link: "",
-                        icon: "bx bx-book",
-                      }
-                ]
-            },
-            {
-                type: "works",
-                title: "Portfolio",
-                subtitle: "Most recent works",
-                description: "",
-                link: "",
-                cover: "",
-                contents: PROJECTS
-            },
-            {
-              type: "skills",
-              title: "Skills",
-              subtitle: "My Technical Level",
-              description: "",
-              link: "",
-              cover: "",
-              contents: SKILLS
-          },{
-            type: "services",
-            title: "Services",
-            subtitle: "What I Offer 🙄",
+  {
+    username: "jaybeegeli",
+    email: "jb@yahoo.com",
+    profile: {
+      cover: IDPIC,
+      nickname: "jaybee",
+      firstName: "John Benedict",
+      lastName: "Geli",
+      position: [
+        "Software Engineer",
+        "Backend Developer",
+        "Front End Developer",
+        "Full Stack Developer",
+        "React Js Developer"
+      ],
+      bio: "I'm a creative software developer based in Tacloban City, Philippines, with a passion for creating innovative tools and systems. I have a background in accounting and a solid foundation in Full Stack Development, including expertise in HTML, CSS, JavaScript, React, Node.js, AWS, Microservices, RestAPI, and Databases.",
+    },
+    contents: [
+      {
+        type: "socials",
+        title: "",
+        subtitle: "",
+        contents: [
+          {
+            title: "",
+            subtitle: "",
+            description: "",
+            link: "https://github.com/jGeli",
+            icon: "uil uil-github-alt",
+          },
+          {
+            title: "",
+            subtitle: "",
+            description: "",
+            link: "https://www.linkedin.com/in/john-benedict-geli",
+            icon: "uil uil-linkedin",
+          },
+          {
+            title: "",
+            subtitle: "",
+            description: "",
+            link: "https://www.facebook.com/jaybeepido/",
+            icon: "uil uil-facebook",
+          }
+        ]
+      },
+      {
+        type: "contact",
+        title: "Get in touch",
+        subtitle: "Contact Me",
+        contents: [
+          {
+            title: "Email",
+            subtitle: "jaybee.aicpa@gmail.com",
+            description: "",
+            link: "mailto:jaybee.aicpa@gmail.com",
+            icon: "bx bx-mail-send",
+          },
+          {
+            title: "Whatsapp",
+            subtitle: "+639774461641",
+            description: "",
+            link: "www.linkedin.com/in/john-benedict-geli-16941a21a",
+            icon: "bx bxl-whatsapp",
+          }, {
+            title: "Skype",
+            subtitle: "jaybee.aicpa@outlook.com",
+            description: "",
+            link: "https://join.skype.com/invite/ywfxqv9NGiPP",
+            icon: "bx bxl-skype",
+          },
+          {
+            title: "Messenger",
+            subtitle: "jaybeegeli",
+            description: "",
+            link: "https://www.facebook.com/jaybeepido/",
+            icon: "bx bxl-messenger",
+          }
+        ]
+      },
+      {
+        type: "about",
+        title: "About Me",
+        subtitle: "My Introduction",
+        description: "I believe that my unique combination of accounting knowledge and Full Stack Development skills allows me to bring added value to any project. My goal is to use my expertise to create cutting-edge accounting tools and systems that streamline financial processes and improve the user experience.",
+        link: CV,
+        cover: IDPIC,
+        contents: [
+          {
+            title: "Experience",
+            subtitle: "4+ Years Working",
             description: "",
             link: "",
+            icon: "bx bx-award",
+          },
+          {
+            title: "Completed",
+            subtitle: "10+ projects",
+            description: "",
+            link: "",
+            icon: "bx bx-briefcase-alt",
+          },
+          {
+            title: "Support",
+            subtitle: "Online 24/7",
+            description: "",
+            link: "",
+            icon: "bx bx-support",
+          },
+          {
+            title: "Accounting",
+            subtitle: "Book keeper",
+            description: "",
+            link: "",
+            icon: "bx bx-book",
+          }
+        ]
+      },
+      {
+        type: "works",
+        title: "Portfolio",
+        subtitle: "Most recent works",
+        description: "",
+        link: "",
+        cover: "",
+        contents: PROJECTS
+      },
+      {
+        type: "skills",
+        title: "Skills",
+        subtitle: "My Technical Level",
+        description: "",
+        link: "",
+        cover: "",
+        contents: SKILLS
+      }, {
+        type: "services",
+        title: "Services",
+        subtitle: "What I Offer 🙄",
+        description: "",
+        link: "",
+        cover: "",
+        contents: Services
+      }, {
+        type: "qualification",
+        title: "Qualification",
+        subtitle: "My personal journey",
+        description: "",
+        link: "",
+        cover: "",
+        contents: [
+          {
+            type: "education",
+            title: "ASIAN DEVELOPMENT FOUNDATION COLLEGE",
+            subtitle: "Accountancy Graduate - Tertiary",
+            description: "2015-2020",
+            link: "",
             cover: "",
-            contents: Services
-        },{
-          type: "qualification",
-          title: "Qualification",
-          subtitle: "My personal journey",
-          description: "",
-          link: "",
-          cover: "",
-          contents: [
-            {
-              type: "education",
-              title: "ASIAN DEVELOPMENT FOUNDATION COLLEGE",
-              subtitle: "Accountancy Graduate - Tertiary",
-              description: "2015-2020",
-              link: "",
-              cover: "",
-              contents: []
-            },
-            {
-              type: "education",
-              title: "Leyte National High School",
-              subtitle: "Diploma - Secondary",
-              description: "2010-2014",
-              link: "",
-              cover: "",
-              contents: []
-            },{
-              type: "experience",
-              title: "Cloud Panda PH",
-              subtitle: "Software Engineer II",
-              description: "May 2021 - November 2022",
-              link: "",
-              cover: "",
-              contents: []
-            },{
-              type: "experience",
-              title: "PRULIFE UK Insurance",
-              subtitle: "Full Stack Developer",
-              description: "March 2020 - February 2021",
-              link: "",
-              cover: "",
-              contents: []
-            },{
-              type: "experience",
-              title: "IT MATTERS",
-              subtitle: "Web Developer",
-              description: "January 2018 - March 2020",
-              link: "",
-              cover: "",
-              contents: []
-            },
-          ]
+            contents: []
+          },
+          {
+            type: "education",
+            title: "Leyte National High School",
+            subtitle: "Diploma - Secondary",
+            description: "2010-2014",
+            link: "",
+            cover: "",
+            contents: []
+          }, {
+            type: "experience",
+            title: "Cloud Panda PH",
+            subtitle: "Software Engineer II",
+            description: "May 2021 - November 2022",
+            link: "",
+            cover: "",
+            contents: []
+          }, {
+            type: "experience",
+            title: "PRULIFE UK Insurance",
+            subtitle: "Full Stack Developer",
+            description: "March 2020 - February 2021",
+            link: "",
+            cover: "",
+            contents: []
+          }, {
+            type: "experience",
+            title: "IT MATTERS",
+            subtitle: "Web Developer",
+            description: "January 2018 - March 2020",
+            link: "",
+            cover: "",
+            contents: []
+          },
+        ]
       }
     ]
   }
