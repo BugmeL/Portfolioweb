@@ -21,7 +21,7 @@ import IDPIC from './assets/id-pic.png';
 import Image1 from "./assets/testimonial1.png";
 import Image2 from "./assets/testimonial2.png";
 import Image3 from "./assets/testimonial3.png";
-import CV from "./assets/John_Benedict_CV.pdf";
+import CV from "./assets/John_Benedict_Geli_UpdatedCV.pdf";
 
 //Dev
 export const API_URL = "https://bugtech.solutions/v1";
@@ -175,27 +175,27 @@ export const SKILLS = [
       },
       {
         title: "MySQL",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-mysql"
       },
       {
         title: "MongoDB",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-mongodb"
       },
       {
         title: "Firebase",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-firebase"
       },
       {
         title: "Postgresql",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-postgresql"
       },
       {
         title: "AWS",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-aws"
       }
     ]
@@ -208,12 +208,12 @@ export const SKILLS = [
     contents: [
       {
         title: "HTML5",
-        subtitle: "Basic",
+        subtitle: "Advance",
         icon: "bx bxl-hmtl5"
       },
       {
         title: "CSS3",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-css3"
       },
       {
@@ -223,7 +223,7 @@ export const SKILLS = [
       },
       {
         title: "Bootstrap",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-bootstrap"
       },
       {
@@ -432,17 +432,9 @@ export const PROFILES = [
             contents: []
           }, {
             type: "experience",
-            title: "Cloud Panda PH",
-            subtitle: "Software Engineer II",
-            description: "May 2021 - November 2022",
-            link: "",
-            cover: "",
-            contents: []
-          }, {
-            type: "experience",
             title: "PRULIFE UK Insurance",
             subtitle: "Full Stack Developer",
-            description: "March 2020 - February 2021",
+            description: "March 2021 - February 2023",
             link: "",
             cover: "",
             contents: []
@@ -450,7 +442,7 @@ export const PROFILES = [
             type: "experience",
             title: "IT MATTERS",
             subtitle: "Web Developer",
-            description: "January 2018 - March 2020",
+            description: "January 2018 - March 2021",
             link: "",
             cover: "",
             contents: []
