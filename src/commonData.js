@@ -75,7 +75,7 @@ export const Services = [
     image: Image2,
     title: "Database Design and Management",
     description:
-      "Writing code to create the server-side components of web applications. This includes working with technologies such as NodeJS, Express, Typescript to create APIs, databases, AWS, Microservices and web servers.",
+      "In-depth experience designing web application structures, implementing, coding standards, managing test scripts, conducting root cause analysis, and driving continuous integration and development practices within an Agile/Scrum environment.",
     icon: CgWebsite
   },
 
@@ -352,7 +352,7 @@ export const PROFILES = [
         contents: [
           {
             title: "Experience",
-            subtitle: "4+ Years Working",
+            subtitle: "6+ Years Working",
             description: "",
             link: "",
             icon: "bx bx-award",
@@ -434,7 +434,7 @@ export const PROFILES = [
             type: "experience",
             title: "PRULIFE UK Insurance",
             subtitle: "Full Stack Developer",
-            description: "March 2021 - February 2023",
+            description: "March 2021 - September 2023",
             link: "",
             cover: "",
             contents: []
