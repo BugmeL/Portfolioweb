@@ -20,7 +20,7 @@ import IDPIC from './assets/profilepic.jpg';
 import Image1 from "./assets/testimonial1.png"; 
 import Image2 from "./assets/testimonial2.png";
 import Image3 from "./assets/testimonial3.png";
-import CV from "./assets/BrixDeluteCV.pdf";
+import CV from "./assets/BrixDeluteUpdated.pdf";
 
 //Dev
 export const API_URL = "https://bugtech.solutions/v1";
@@ -167,27 +167,27 @@ export const SKILLS = [
       },
       {
         title: "MySQL",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-mysql"
       },
       {
         title: "MongoDB",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-mongodb"
       },
       {
         title: "Firebase",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-firebase"
       },
       {
         title: "Postgresql",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-postgresql"
       },
       {
         title: "AWS",
-        subtitle: "Intermediate",
+        subtitle: "Advance",
         icon: "bx bxl-aws"
       }
     ]
@@ -200,12 +200,12 @@ export const SKILLS = [
     contents: [
       {
         title: "HTML5",
-        subtitle: "Basic",
+        subtitle: "advance",
         icon: "bx bxl-hmtl5"
       },
       {
         title: "CSS3",
-        subtitle: "Intermediate",
+        subtitle: "advance",
         icon: "bx bxl-css3"
       },
       {
@@ -215,7 +215,7 @@ export const SKILLS = [
       },
       {
         title: "Bootstrap",
-        subtitle: "Intermediate",
+        subtitle: "advance",
         icon: "bx bxl-bootstrap"
       },
       {
@@ -258,7 +258,7 @@ export const PROFILES = [
         username: "jaybeegeli",
         email: "jb@yahoo.com",
         profile: {
-            // cover: IDPIC,
+            cover: IDPIC,
             nickname: "brix",
             firstName: "Brix",
             lastName: "Delute",
@@ -408,8 +408,8 @@ export const PROFILES = [
             {
               type: "education",
               title: "ASIAN DEVELOPMENT FOUNDATION COLLEGE",
-              subtitle: "BACHELOR OF SCIENCE IN HOTEL & RESTAURANT MANAGEMENT",
-              description: "2016-2020",
+              subtitle: "BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY",
+              description: "2014-2018",
               link: "",
               cover: "",
               contents: []
@@ -426,7 +426,7 @@ export const PROFILES = [
               type: "experience",
               title: "PRULIFE UK Insurance",
               subtitle: "Full Stack Developer",
-              description: "March 2021 - February 2023",
+              description: "December 2022 - January 2024",
               link: "",
               cover: "",
               contents: []
@@ -434,7 +434,7 @@ export const PROFILES = [
               type: "experience",
               title: "IT MATTERS",
               subtitle: "Web Developer",
-              description: "April 2018 - January 2021",
+              description: "Match 2018 - November 2022",
               link: "",
               cover: "",
               contents: []
