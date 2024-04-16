@@ -23,10 +23,10 @@ import Image3 from "./assets/testimonial3.png";
 import CV from "./assets/Brix_Delute_Resume.pdf";
 
 //Dev
-// export const API_URL = "https://bugtech.solutions/v1";
+export const API_URL = "https://bugtech.solutions/v1";
 
 //Locals
-export const API_URL = "http://localhost:5500/v1";
+// export const API_URL = "http://localhost:5500/v1";
 
 
 export const Testimonial = [
