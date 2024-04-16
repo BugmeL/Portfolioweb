@@ -20,13 +20,13 @@ import IDPIC from './assets/profilepic.jpg';
 import Image1 from "./assets/testimonial1.png"; 
 import Image2 from "./assets/testimonial2.png";
 import Image3 from "./assets/testimonial3.png";
-import CV from "./assets/BrixDeluteUpdated.pdf";
+import CV from "./assets/Brix_Delute_Resume.pdf";
 
 //Dev
-export const API_URL = "https://bugtech.solutions/v1";
+// export const API_URL = "https://bugtech.solutions/v1";
 
-//Local
-// export const API_URL = "http://localhost:5500/v1";
+//Locals
+export const API_URL = "http://localhost:5500/v1";
 
 
 export const Testimonial = [
