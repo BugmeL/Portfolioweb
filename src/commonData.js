@@ -23,6 +23,7 @@ import Image2 from "./assets/testimonial2.png";
 import Image3 from "./assets/testimonial3.png";
 import CV from "./assets/John_Benedict_Geli_UpdatedCV.pdf";
 
+//COMMENT TRIGGER
 //Dev
 export const API_URL = "https://bugtech.solutions/v1";
 
