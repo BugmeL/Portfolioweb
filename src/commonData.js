@@ -192,9 +192,9 @@ export const PROFILES = [
         username: "lyndz",
         email: "lyndz.bayona@gmail.com",
         profile: {
-            cover: 'https://4.img-dpreview.com/files/p/E~TS590x0~articles/3925134721/0266554465.jpeg',
+            cover: 'https://files.bugtech.online/api/v1/files/download/672ccf17a6383b30f54a026b',
             nickname: "Lynds",
-            firstName: "Lyndi",
+            firstName: "Lyndi", 
             lastName: "Bayona",
             position: "Software Engineer",
             bio: "I'm a creative software developer based in Tacloban City, Philippines, with a passion for creating innovative tools and systems. I have a background in accounting and a solid foundation in Full Stack Development, including expertise in HTML, CSS, JavaScript, React, Node.js and Databases.",
@@ -209,21 +209,21 @@ export const PROFILES = [
                       title: "",
                       subtitle: "",
                       description: "",
-                      link: "https://github.com/jGeli",
+                      link: "https://github.com/bugtech-systems?tab=repositories",
                       icon: "uil uil-github-alt",
                     },
                     {
                         title: "",
                         subtitle: "",
                         description: "",
-                        link: "https://www.linkedin.com/in/john-benedict-geli",
+                        link: "https://www.linkedin.com/",
                         icon: "uil uil-linkedin",
                       },
                       {
                           title: "",
                           subtitle: "",
                           description: "",
-                          link: "https://www.facebook.com/jaybeepido/",
+                          link: "https://www.facebook.com/itsgonejim",
                           icon: "uil uil-facebook",
                         }
                 ]
@@ -235,16 +235,16 @@ export const PROFILES = [
                 contents: [
                     {
                       title: "Email",
-                      subtitle: "lyndi.bayona@gmail.com",
+                      subtitle: "callmelyndz@gmail.com",
                       description: "",
-                      link: "mailto:lyndi.bayona@gmail.com",
+                      link: "mailto:callmelyndz@gmail.com",
                       icon: "bx bx-mail-send",
                     },
                     {
                         title: "Whatsapp",
-                        subtitle: "+639774461641",
+                        subtitle: "+639463428472",
                         description: "",
-                        link: "www.linkedin.com/in/john-benedict-geli-16941a21a",
+                        link: "www.linkedin.com/",
                         icon: "bx bxl-whatsapp",
                       },{
                         title: "Skype",
@@ -255,9 +255,9 @@ export const PROFILES = [
                       },
                       {
                           title: "Messenger",
-                          subtitle: "jaybeegeli",
+                          subtitle: "lyndebayona",
                           description: "",
-                          link: "https://www.facebook.com/jaybeepido/",
+                          link: "https://www.facebook.com/itsgonejim",
                           icon: "bx bxl-messenger",
                         }
                 ]
@@ -268,7 +268,7 @@ export const PROFILES = [
                 subtitle: "My Introduction",
                 description: "I believe that my unique combination of accounting knowledge and Full Stack Development skills allows me to bring added value to any project. My goal is to use my expertise to create cutting-edge accounting tools and systems that streamline financial processes and improve the user experience.",
                 link: CV,
-                cover: "https://bugtech-portfolio.s3.ap-northeast-1.amazonaws.com/Untitled.png",
+                cover: "https://files.bugtech.online/api/v1/files/download/672ccf17a6383b30f54a026e",
                 contents: [
                     {
                         title: "Experience",
@@ -335,18 +335,18 @@ export const PROFILES = [
           contents: [
             {
               type: "education",
-              title: "ASIAN DEVELOPMENT FOUNDATION COLLEGE",
-              subtitle: "Accountancy Graduate - Tertiary",
-              description: "2015-2020",
+              title: "ACLC College",
+              subtitle: "BACHELOR OF SCIENCE IN COMPUTER SCIENCE - Magna Cum Laude",
+              description: "2017 - 2020",
               link: "",
               cover: "",
               contents: []
             },
             {
               type: "experience",
-              title: "Experience",
-              subtitle: "",
-              description: "",
+              title: "Erfinder Store / Climeo",
+              subtitle: "SOFTWARE developer",
+              description: "May 2020 -January 2024",
               link: "",
               cover: "",
               contents: []
@@ -401,9 +401,9 @@ export const PROFILES = [
               contents: [
                   {
                     title: "Email",
-                    subtitle: "lyndi.bayona@gmail.com",
+                    subtitle: "callmelyndz@gmail.com",
                     description: "",
-                    link: "mailto:lyndi.bayona@gmail.com",
+                    link: "mailto:callmelyndz@gmail.com",
                     icon: "bx bx-mail-send",
                   },
                   {
@@ -533,9 +533,9 @@ export const PROFILES = [
             contents: [
                 {
                   title: "Email",
-                  subtitle: "lyndi.bayona@gmail.com",
+                  subtitle: "callmelyndz@gmail.com",
                   description: "",
-                  link: "mailto:lyndi.bayona@gmail.com",
+                  link: "mailto:callmelyndz@gmail.com",
                   icon: "bx bx-mail-send",
                 },
                 {
