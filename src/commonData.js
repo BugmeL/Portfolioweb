@@ -51,41 +51,6 @@ export const PROJECTS = [
       description: "App",
       link: "/netflix"
     },
-    {
-      id: 5,
-      cover: Dashboard,
-      title: "Admin Panel",
-      description: "Design",
-      link: "/dashboard"
-    },
-    {
-      id: 6,
-      cover: Inventory,
-      title: "Inventory Management",
-      description: "App",
-      link: "/inventory"
-    },
-    {
-      id: 7,
-      cover: Blog,
-      title: "Blog Web Site",
-      description: "Web",
-      link: "/blog"
-    },
-    {
-      id: 8,
-      cover: Ecommerce,
-      title: "Ecommerce Web",
-      description: "Design",
-      link: "/ecommerce"
-    },
-    {
-      id: 9,
-      cover: Messaging,
-      title: "Messaging Web App",
-      description: "App",
-      link: "/messaging"
-    },
 ];
 
 export const SKILLS = [
@@ -244,13 +209,13 @@ export const PROFILES = [
                         title: "Whatsapp",
                         subtitle: "+639463428472",
                         description: "",
-                        link: "www.linkedin.com/",
+                        link: "",
                         icon: "bx bxl-whatsapp",
                       },{
                         title: "Skype",
                         subtitle: "lyndi.bayona@outlook.com",
                         description: "",
-                        link: "https://join.skype.com/invite/ywfxqv9NGiPP",
+                        link: "",
                         icon: "bx bxl-skype",
                       },
                       {
@@ -349,12 +314,13 @@ export const PROFILES = [
               description: "May 2020 -January 2024",
               link: "",
               cover: "",
-              contents: []
+              contents: ['AW AW AW']
             }
           ]
       }
         ]
-    },{
+    }
+    ,{
         username: "jezekielisip",
         email: "jezedevkiel21@gmail.com",
         profile: {
@@ -410,7 +376,7 @@ export const PROFILES = [
                       title: "Whatsapp",
                       subtitle: "+639774461641",
                       description: "",
-                      link: "www.linkedin.com/in/john-benedict-geli-16941a21a",
+                      link: "www.linkedin.com/",
                       icon: "bx bxl-whatsapp",
                     },{
                       title: "Skype",
