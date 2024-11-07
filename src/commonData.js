@@ -189,13 +189,13 @@ export const SKILLS = [
 
 export const PROFILES = [
     {
-        username: "jaybeegeli",
-        email: "jb@yahoo.com",
+        username: "lyndz",
+        email: "lyndz.bayona@gmail.com",
         profile: {
-            cover: "https://bugtech-portfolio.s3.ap-northeast-1.amazonaws.com/Untitled.png",
-            nickname: "jaybee",
-            firstName: "John Benedict",
-            lastName: "Geli",
+            cover: 'https://4.img-dpreview.com/files/p/E~TS590x0~articles/3925134721/0266554465.jpeg',
+            nickname: "Lynds",
+            firstName: "Lyndi",
+            lastName: "Bayona",
             position: "Software Engineer",
             bio: "I'm a creative software developer based in Tacloban City, Philippines, with a passion for creating innovative tools and systems. I have a background in accounting and a solid foundation in Full Stack Development, including expertise in HTML, CSS, JavaScript, React, Node.js and Databases.",
         },    
@@ -235,9 +235,9 @@ export const PROFILES = [
                 contents: [
                     {
                       title: "Email",
-                      subtitle: "jaybee.aicpa@gmail.com",
+                      subtitle: "lyndi.bayona@gmail.com",
                       description: "",
-                      link: "mailto:jaybee.aicpa@gmail.com",
+                      link: "mailto:lyndi.bayona@gmail.com",
                       icon: "bx bx-mail-send",
                     },
                     {
@@ -248,7 +248,7 @@ export const PROFILES = [
                         icon: "bx bxl-whatsapp",
                       },{
                         title: "Skype",
-                        subtitle: "jaybee.aicpa@outlook.com",
+                        subtitle: "lyndi.bayona@outlook.com",
                         description: "",
                         link: "https://join.skype.com/invite/ywfxqv9NGiPP",
                         icon: "bx bxl-skype",
@@ -401,9 +401,9 @@ export const PROFILES = [
               contents: [
                   {
                     title: "Email",
-                    subtitle: "jaybee.aicpa@gmail.com",
+                    subtitle: "lyndi.bayona@gmail.com",
                     description: "",
-                    link: "mailto:jaybee.aicpa@gmail.com",
+                    link: "mailto:lyndi.bayona@gmail.com",
                     icon: "bx bx-mail-send",
                   },
                   {
@@ -533,9 +533,9 @@ export const PROFILES = [
             contents: [
                 {
                   title: "Email",
-                  subtitle: "jaybee.aicpa@gmail.com",
+                  subtitle: "lyndi.bayona@gmail.com",
                   description: "",
-                  link: "mailto:jaybee.aicpa@gmail.com",
+                  link: "mailto:lyndi.bayona@gmail.com",
                   icon: "bx bx-mail-send",
                 },
                 {
@@ -546,7 +546,7 @@ export const PROFILES = [
                     icon: "bx bxl-whatsapp",
                   },{
                     title: "Skype",
-                    subtitle: "jaybee.aicpa@outlook.com",
+                    subtitle: "lyndi.bayona@outlook.com",
                     description: "",
                     link: "https://join.skype.com/invite/ywfxqv9NGiPP",
                     icon: "bx bxl-skype",
