@@ -10,7 +10,7 @@ const Data = ({data = {}}) => {
     <h4>
             Hello <span className="green">I'm</span>
           </h4><br/>
-<h2 className="home__title"> {data.firstName} {data.lastName} 
+<h1 className="home__title"> {data.firstName} {data.lastName} 
 {/* { !isAuth ? <svg
                   width="36"
                   height="36"
@@ -61,8 +61,8 @@ const Data = ({data = {}}) => {
                   ></path>
 </svg> : <>&nbsp;&nbsp;<ProfileForm/></>
 } */}
-</h2>
-<h3 className="home__subtitle"></h3>
+</h1>
+<h2 className="home__subtitle"></h2>
 <Textwriter
 text={data.position}
 />
