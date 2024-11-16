@@ -85,7 +85,7 @@ const Qualification = ({data}) => {
                 <div>
                   <h3 className="qualification__title">{a.title}</h3>
                   <span className="qualification__subtitle">
-                   {a.subtitle}
+                   {a.subtitle} <b>Magna Cum Laude</b>
                   </span>
                   <div className="qualification__calender">
                   <span className="qualification__subtitle"> <i className="uil uil-calendar-alt"></i> {a.description}</span>

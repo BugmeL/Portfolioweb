@@ -325,27 +325,27 @@ export const PROFILES = [
                       subtitle: "callmelyndz@gmail.com",
                       description: "",
                       link: "mailto:callmelyndz@gmail.com",
-                      icon: "bx bx-mail-send",
+                      icon: "uil uil-envelope",
                     },
                     {
                         title: "Whatsapp",
                         subtitle: "+639541992688",
                         description: "",
                         link: "",
-                        icon: "bx bxl-whatsapp",
+                        icon: "uil uil-whatsapp",
                       },{
                         title: "Skype",
                         subtitle: "callmelyndz@gmail.com",
                         description: "",
                         link: "https://join.skype.com/v8NyWTx61iMf",
-                        icon: "bx bxl-skype",
+                        icon: "uil uil-skype",
                       },
                       {
                           title: "Messenger",
                           subtitle: "Lynde Bayona",
                           description: "",
                           link: "https://www.facebook.com/lyndebay",
-                          icon: "bx bxl-messenger",
+                          icon: "uil uil-facebook-messenger",
                         }
                 ]
             },
@@ -423,7 +423,7 @@ export const PROFILES = [
             {
               type: "education",
               title: "ACLC College",
-              subtitle: "BACHELOR OF SCIENCE IN COMPUTER SCIENCE - Magna Cum Laude",
+              subtitle: `BACHELOR OF SCIENCE IN COMPUTER SCIENCE -`,
               description: "2017 - 2020",
               link: "",
               cover: "",
