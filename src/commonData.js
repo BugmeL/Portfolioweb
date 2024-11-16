@@ -25,7 +25,7 @@ import CV from "./assets/BrixDeluteCV.pdf";
 // Steven Changes
 import Image4 from './assets/ANDROIDSTUDIO.png'
 import profileImage from './assets/profile.jpg'
-import CV2 from './assets/MARK-STEVEN-ALBA-CV.pdf';
+import CV2 from './assets/Lynde_Bayona_CV.pdf';
 
 //Dev
 export const API_URL = "https://bugtech.online/v1";
@@ -270,12 +270,12 @@ export const SKILLS = [
 export const PROFILES = [
     {
         username: "stevenAlba",
-        email: "marksteven.alba@gmail.com",
+        email: "callmelyndz@gmail.com",
         profile: {
             cover: profileImage,
-            nickname: "Steven",
-            firstName: "Mark Steven",
-            lastName: "Alba",
+            nickname: "Lynde Bayona",
+            firstName: "Lynde",
+            lastName: "Bayona",
             position: [
               "Software Engineer",
               "Backend Developer",
@@ -303,14 +303,14 @@ export const PROFILES = [
                         title: "",
                         subtitle: "",
                         description: "",
-                        link: "https://www.linkedin.com/in/mark-steven-alba-9b55a9274/",
+                        link: "https://www.linkedin.com/",
                         icon: "uil uil-linkedin",
                       },
                       {
                           title: "",
                           subtitle: "",
                           description: "",
-                          link: "https://www.facebook.com/throwNewError404/",
+                          link: "https://www.facebook.com/lyndebay",
                           icon: "uil uil-facebook",
                         }
                 ]
@@ -322,31 +322,31 @@ export const PROFILES = [
                 contents: [
                     {
                       title: "Email",
-                      subtitle: "marksteven.alba@gmail.com",
+                      subtitle: "callmelyndz@gmail.com",
                       description: "",
-                      link: "mailto:marksteven.alba@gmail.com",
+                      link: "mailto:callmelyndz@gmail.com",
                       icon: "bx bx-mail-send",
                     },
                     {
                         title: "Whatsapp",
-                        subtitle: "+639659868434",
+                        subtitle: "+639541992688",
                         description: "",
                         link: "",
                         icon: "bx bxl-whatsapp",
                       },{
                         title: "Skype",
-                        subtitle: "marksteven.alba@gmail.com",
+                        subtitle: "callmelyndz@gmail.com",
                         description: "",
-                        link: "https://join.skype.com/u2WqPfBW8fRw",
+                        link: "https://join.skype.com/v8NyWTx61iMf",
                         icon: "bx bxl-skype",
                       },
-                      // {
-                      //     title: "Messenger",
-                      //     subtitle: "jaybeegeli",
-                      //     description: "",
-                      //     link: "https://www.facebook.com/jaybeepido/",
-                      //     icon: "bx bxl-messenger",
-                      //   }
+                      {
+                          title: "Messenger",
+                          subtitle: "Lynde Bayona",
+                          description: "",
+                          link: "https://www.facebook.com/lyndebay",
+                          icon: "bx bxl-messenger",
+                        }
                 ]
             },
             {
@@ -359,7 +359,7 @@ export const PROFILES = [
                 contents: [
                     {
                         title: "Experience",
-                        subtitle: "5+ Years Working",
+                        subtitle: "6+ Years Working",
                         description: "",
                         link: "",
                         icon: "bx bx-award",
@@ -422,28 +422,10 @@ export const PROFILES = [
           contents: [
             {
               type: "education",
-              title: "ASIAN DEVELOPMENT FOUNDATION COLLEGE",
-              subtitle: "BACHELOR OF SCIENCE IN BUSINESS ADMINISTRATION",
-              description: "2015-2020",
+              title: "ACLC College",
+              subtitle: "BACHELOR OF SCIENCE IN COMPUTER SCIENCE - Magna Cum Laude",
+              description: "2017 - 2020",
               link: "",
-              cover: "",
-              contents: []
-            },
-            {
-              type: "education",
-              title: "Leyte National High School",
-              subtitle: "Diploma - Secondary",
-              description: "2008-2012",
-              link: "",
-              cover: "",
-              contents: []
-            },
-            {
-              type: "experience",
-              title: "Highly Succeed",
-              subtitle: "Full Stack Developer",
-              description: "May 2022 - January 2024",
-              link: "https://www.mwell.com.ph/",
               cover: "",
               contents: []
             },
@@ -451,11 +433,20 @@ export const PROFILES = [
               type: "experience",
               title: "IT MATTERS",
               subtitle: "Web Developer",
-              description: "April 2017 - May 2022",
+              description: "Jan. 2018 - Mar. 2021",
               link: "",
               cover: "",
               contents: []
-            }
+            },
+            {
+              type: "experience",
+              title: "PRULIFEUK PH – Full Stack Developer",
+              subtitle: "Full Stack Developer",
+              description: "Mar. 2021 - Sept. 2023",
+              link: "",
+              cover: "",
+              contents: []
+            },
           ]
       }
     ]
