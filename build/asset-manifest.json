@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa49b343.css",
-    "main.js": "/static/js/main.133d6aa1.js",
-    "static/media/profile.jpg": "/static/media/profile.7e34ee0e178f9f6dc3ba.jpg",
+    "main.css": "/static/css/main.b111e70a.css",
+    "main.js": "/static/js/main.012cd9fc.js",
     "static/media/netflix.png": "/static/media/netflix.782ca1e7088576586960.png",
     "static/media/raymund.jpg": "/static/media/raymund.46bbc28c348fbe490eb5.jpg",
     "static/media/doovote.png": "/static/media/doovote.f5106c0f36e64df6308e.png",
@@ -11,10 +10,10 @@
     "static/media/CFC.png": "/static/media/CFC.754ccf8fb8a83941a2e6.png",
     "static/media/mandrix.jpg": "/static/media/mandrix.eeb51a034b0c577362cd.jpg",
     "static/media/Dashboard.png": "/static/media/Dashboard.944dc1acb6df609e5d84.png",
+    "static/media/Lynde_Bayona_CV.pdf": "/static/media/Lynde_Bayona_CV.2170f9020db3706bbce7.pdf",
     "static/media/Messaging.png": "/static/media/Messaging.1d4d224e2bade73fa884.png",
     "static/media/BrixDeluteCV.pdf": "/static/media/BrixDeluteCV.ae184aa539c16e4c4a60.pdf",
     "static/media/ANDROIDSTUDIO.png": "/static/media/ANDROIDSTUDIO.e774b45c94df8ef58563.png",
-    "static/media/MARK-STEVEN-ALBA-CV.pdf": "/static/media/MARK-STEVEN-ALBA-CV.f527a7a10e3ee5b426fa.pdf",
     "static/media/Inventory.png": "/static/media/Inventory.c72766252e65c090c014.png",
     "static/media/Pos.png": "/static/media/Pos.d31beff5181e5ead457c.png",
     "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
@@ -26,13 +25,14 @@
     "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
     "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "static/media/profile.jpg": "/static/media/profile.9cdbb48b0ba1cb2ff966.jpg",
     "static/media/gibb.jpg": "/static/media/gibb.4bfe60cdb3bed204f5fc.jpg",
     "index.html": "/index.html",
-    "main.aa49b343.css.map": "/static/css/main.aa49b343.css.map",
-    "main.133d6aa1.js.map": "/static/js/main.133d6aa1.js.map"
+    "main.b111e70a.css.map": "/static/css/main.b111e70a.css.map",
+    "main.012cd9fc.js.map": "/static/js/main.012cd9fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa49b343.css",
-    "static/js/main.133d6aa1.js"
+    "static/css/main.b111e70a.css",
+    "static/js/main.012cd9fc.js"
   ]
 }
