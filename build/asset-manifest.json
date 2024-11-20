@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b111e70a.css",
-    "main.js": "/static/js/main.f5312c7f.js",
+    "main.js": "/static/js/main.dbb7f217.js",
     "static/media/netflix.png": "/static/media/netflix.782ca1e7088576586960.png",
     "static/media/raymund.jpg": "/static/media/raymund.46bbc28c348fbe490eb5.jpg",
     "static/media/doovote.png": "/static/media/doovote.f5106c0f36e64df6308e.png",
@@ -10,7 +10,7 @@
     "static/media/CFC.png": "/static/media/CFC.754ccf8fb8a83941a2e6.png",
     "static/media/mandrix.jpg": "/static/media/mandrix.eeb51a034b0c577362cd.jpg",
     "static/media/Dashboard.png": "/static/media/Dashboard.944dc1acb6df609e5d84.png",
-    "static/media/Lynde_Bayona_CV.pdf": "/static/media/Lynde_Bayona_CV.2170f9020db3706bbce7.pdf",
+    "static/media/Lynde_Bayona_CV_2024.pdf": "/static/media/Lynde_Bayona_CV_2024.06b838e245a25b79d7e4.pdf",
     "static/media/Messaging.png": "/static/media/Messaging.1d4d224e2bade73fa884.png",
     "static/media/BrixDeluteCV.pdf": "/static/media/BrixDeluteCV.ae184aa539c16e4c4a60.pdf",
     "static/media/ANDROIDSTUDIO.png": "/static/media/ANDROIDSTUDIO.e774b45c94df8ef58563.png",
@@ -29,10 +29,10 @@
     "static/media/gibb.jpg": "/static/media/gibb.4bfe60cdb3bed204f5fc.jpg",
     "index.html": "/index.html",
     "main.b111e70a.css.map": "/static/css/main.b111e70a.css.map",
-    "main.f5312c7f.js.map": "/static/js/main.f5312c7f.js.map"
+    "main.dbb7f217.js.map": "/static/js/main.dbb7f217.js.map"
   },
   "entrypoints": [
     "static/css/main.b111e70a.css",
-    "static/js/main.f5312c7f.js"
+    "static/js/main.dbb7f217.js"
   ]
 }
