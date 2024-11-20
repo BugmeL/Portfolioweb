@@ -25,7 +25,7 @@ import CV from "./assets/BrixDeluteCV.pdf";
 // Steven Changes
 import Image4 from './assets/ANDROIDSTUDIO.png'
 import profileImage from './assets/profile.jpg'
-import CV2 from './assets/Lynde_Bayona_CV.pdf';
+import CV2 from './assets/Lynde_Bayona_CV_2024.pdf';
 
 //Dev
 export const API_URL = "https://bugtech.online/v1";
