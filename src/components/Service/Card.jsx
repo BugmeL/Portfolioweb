@@ -6,7 +6,7 @@ const Card = (props) => {
   return (
     <Container>
         <span className='green'><Icon/></span>
-        <h1 className='text-light'>{title}</h1>
+        <h2 className='text-light'>{title}</h2>
         <p>{disc}</p>
         {/* <em className="services__button mt-1"
         onClick={toggleTab}
@@ -39,7 +39,7 @@ height: 100%;
         font-size: 4rem;
     }
     
-    h1{
+    h2{
         font-size: 1.2rem;
         padding-bottom: 1rem;
         text-align: center;

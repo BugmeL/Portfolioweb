@@ -11,7 +11,7 @@ const Footer = ({socials}) => {
     <footer className="footer">
       <div className="footer__container container">
     <Slide direction="up">
-          <h1 className="footer__title">Bugtech Solutions</h1>
+          <h2 className="footer__title">Bugtech Solutions</h2>
           <ul className="footer__list">
             <li>
               <a href="#about" className="footer__link" rel="noopener"> About </a>

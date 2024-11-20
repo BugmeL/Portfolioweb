@@ -310,7 +310,7 @@ export const PROFILES = [
                           title: "",
                           subtitle: "",
                           description: "",
-                          link: "https://www.facebook.com/lyndebay",
+                          link: "https://web.facebook.com/anoyabdednyl",
                           icon: "uil uil-facebook",
                         }
                 ]
@@ -329,13 +329,13 @@ export const PROFILES = [
                     },
                     {
                         title: "Whatsapp",
-                        subtitle: "+639541992688",
+                        subtitle: "+639610048096",
                         description: "",
                         link: "",
                         icon: "uil uil-whatsapp",
                       },{
                         title: "Skype",
-                        subtitle: "callmelyndz@gmail.com",
+                        subtitle: "lynde.b1@outlook.com",
                         description: "",
                         link: "https://join.skype.com/v8NyWTx61iMf",
                         icon: "uil uil-skype",
@@ -344,7 +344,7 @@ export const PROFILES = [
                           title: "Messenger",
                           subtitle: "Lynde Bayona",
                           description: "",
-                          link: "https://www.facebook.com/lyndebay",
+                          link: "https://web.facebook.com/anoyabdednyl",
                           icon: "uil uil-facebook-messenger",
                         }
                 ]

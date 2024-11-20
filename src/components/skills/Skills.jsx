@@ -46,7 +46,7 @@ const Skills = ({data = {}}) => {
               <Slide direction="up">
       <h2 className="section__title">{values.title}</h2>
       {/* <span className="section__subtitle">{values.subtitle}</span> */}
-      <h1 className="section__subtitle">My <span className="green">Technical level</span> </h1>
+      <h2 className="section__subtitle">My <span className="green">Technical level</span> </h2>
       </Slide>
 
       {/* <Swiper className="skills__container container"

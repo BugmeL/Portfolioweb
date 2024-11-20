@@ -24,7 +24,7 @@ const About = ({data}) => {
 
       <h2 className="section__title">{values.title}</h2>
       {/* <span className="section__subtitle">{values.subtitle}</span> */}
-      <h1 className="section__subtitle">My <span className="green">Introduction</span></h1>
+      <h2 className="section__subtitle">My <span className="green">Introduction</span></h2>
 
       </Slide>
       <div className="about__container container grid">

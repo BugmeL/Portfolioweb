@@ -42,7 +42,7 @@ const Contact = ({data}) => {
             <Slide direction="down">
       <h2 className="section__title">{data.title}</h2>
       {/* <span className="section__subtitle">{data.subtitle}</span> */}
-      <h1 className="section__subtitle"><span className="green">Contact</span> Me</h1>
+      <h2 className="section__subtitle"><span className="green">Contact</span> Me</h2>
       </Slide>
 
       <div className="contact__container container grid">

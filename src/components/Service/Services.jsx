@@ -11,10 +11,10 @@ const Services = ({toggleTab, data}) => {
   return (
     <Container id="service">
       <Slide direction="down">
-        <h4 className="section__title">
+        <h2 className="section__title">
           My services
-        </h4>
-        <h1 className="section__subtitle">What <span className="green">I Do</span></h1>
+        </h2>
+        <h2 className="section__subtitle">What <span className="green">I Do</span></h2>
       </Slide>
       <Cards>
       {data && data.contents.map((a, index) => {
